@@ -7,5 +7,5 @@ Used technologies Python 3.10, [Streamlit](https://streamlit.io/) -python librar
 
 Additional Libraries - Yahoo Finance Analyser
 
-Personal Project for Vistula University-March
+Personal Project for Vistula University-Marchs
 Student: Khusanjon Usmonov id-55119
